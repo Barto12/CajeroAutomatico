@@ -1,0 +1,3 @@
+C:/Users/wenty/CLionProjects/CajeroAutomatico/cmake-build-debug/CMakeFiles/CajeroAutomatico.dir
+C:/Users/wenty/CLionProjects/CajeroAutomatico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wenty/CLionProjects/CajeroAutomatico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
